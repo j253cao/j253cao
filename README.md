@@ -21,7 +21,6 @@
 ### Languages and Tools:
 
 <img src="https://i0.wp.com/powerforallats.com/wp-content/uploads/2016/03/js-logo.png?fit=500%2C500" style="width:22px;">
-<span style="margin-left:10px;">
 <img src="https://i.stack.imgur.com/PgcSR.png" style="width:22px;">
 <span style="margin-left:10px;">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" style="width:22px;">
