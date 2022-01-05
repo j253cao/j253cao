@@ -40,4 +40,4 @@
 
 
 [website]: https://j253cao.github.io./
-[linkedin]: https://linkedin.com/in/codeSTACKr
+[linkedin]: https://www.linkedin.com/in/johnny-cao-497a16220/
