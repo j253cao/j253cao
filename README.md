@@ -4,11 +4,6 @@
 
 ## I'm a management engineering student at the University of Waterloo!
 
-- 🌱 I’m currently learning everything about JavaScript frameworks🤣
-- 👯 I’m event interested and looking to work on open source projects
-- 🥅 2022 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to play sports and run
-
 ### Connect with me:
 
 [<img width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
